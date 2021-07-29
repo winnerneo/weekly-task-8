@@ -1,0 +1,26 @@
+
+p{
+  color:blue;
+  text-shadow: yellow;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  
+}
+img{
+  width: 200px;
+  height: 250px;
+  border-radius: 3%;
+}
+.bg-color{
+  background-color:rgb(46, 102, 204);
+  border-radius: 5%;
+  width: 35px;
+  height: 475px;
+  margin: 8px;
+  
+}
+section{
+  display: flex;
+  justify-content: center;
+}
